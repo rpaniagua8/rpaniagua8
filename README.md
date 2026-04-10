@@ -9,7 +9,9 @@ About me:
 - First piece of technology owned Gameboy Advance SP
 - Hometown is Chicago,IL
 - Studying Mathematics and Computer Science
-- I enjoy studying math, playing chess, and video games on my free time. I have also recently picked up going to the gym, which i currently am enjoying.
+- I enjoy studying math, playing chess, and video games on my free time. I have also recently picked up going to the gym, which i currently am enjoying
+
+
 ![Coding Cat](https://i.pinimg.com/474x/b8/39/a0/b839a008f71c5333f846edfb485e3533.jpg)
 
 
